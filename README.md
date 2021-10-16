@@ -8,3 +8,4 @@ Just a simple physical interface to interact with Streamlabs OBS API. Make a mut
 * Buttons, LEDs, etc.
 #### - Extra functionality -
 * Logic Level N-channel mosfets (for example IRLZ44N)
+* 10k resistors for the mosfets
